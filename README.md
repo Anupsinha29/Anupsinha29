@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupsinha29" alt="anupsinha29" /></a> </p>
 
-- 💬 Ask me about **Java, Python, SQL, Manual Testing, Selenium, AWS, TestNG, Pytest,Github, Jira, Jenkins, Maven, Page Object Model, Hybrid Framework, Postman Tool, Rest Assured, JDBC, Automation Testing, API Testing**
+- 💬 Ask me about **Java, Python, SQL, Manual Testing, Selenium, AWS, TestNG, Pytest,Github, Jira, Jenkins, Maven, Page Object Model, Hybrid Framework, Postman Tool, Rest Assured, JDBC, Appium, Automation Testing, API Testing, Mobile App Testing**
 
 - 📫 How to reach me **anupsinhacse@gmail.com**
 
